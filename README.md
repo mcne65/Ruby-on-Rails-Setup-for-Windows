@@ -1,5 +1,6 @@
 ----
 This is instruction for setup Ruby on Rails on Windows 7 x64.
+----
 Contains steps, which are needed to properly work in Ruby on Rails.
 ----
 
