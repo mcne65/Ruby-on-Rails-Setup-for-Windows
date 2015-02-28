@@ -12,7 +12,7 @@ B. Install SSL certificate
   
 Link:  http://curl.haxx.se/ca/cacert.pem
   
-Setup environment variable in Windows: Control Panel \ System \ Advanced System Settings \ Environmenta Variables \ 
+Setup environment variable in Windows: Control Panel \ System \ Advanced System Settings \ Environmental Variables \ 
 Add in Environmental Variables line: Variable: SSL_CERT_FILE , Value: path to 'cacert.pem' file.
 
 C. Install URU - application to manage multiple versions of ruby
@@ -28,3 +28,9 @@ D. Install ConEmu
 Link:  https://code.google.com/p/conemu-maximus5/
 
 ConEmu replaces bash from git - easier to handle multiple tabs, saves views after exit.
+
+E. Install SourceTree
+
+Link: http://www.sourcetreeapp.com/
+
+SourceTree is git client with GUI - easier to manage branches, follow changes and commit files.
